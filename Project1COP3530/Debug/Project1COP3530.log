@@ -1,0 +1,4 @@
+﻿  Project1COP3530.cpp
+C:\Users\chris_x1sgmf5\source\repos\Project1COP3530\Project1COP3530\Project1COP3530.cpp(44,17): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\chris_x1sgmf5\source\repos\Project1COP3530\Project1COP3530\Project1COP3530.cpp(82,19): warning C4018:  '>': signed/unsigned mismatch
+  Project1COP3530.vcxproj -> C:\Users\chris_x1sgmf5\source\repos\Project1COP3530\Debug\Project1COP3530.exe
